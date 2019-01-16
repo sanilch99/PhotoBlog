@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">PhotoBlog</string>
+    <string name="your_email">Your Email</string>
+    <string name="your_password">Your Password</string>
+    <string name="logo_for_login_page">logo for login page</string>
+    <string name="need_a_new_account">Need A New Account</string>
+    <string name="login">Login</string>
+    <string name="already_a_user">Already a User?</string>
+    <string name="login_to_account">Login To Account</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password">Password</string>
+    <string name="save_account_settings">Save Account Settings</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="search_ml">Search</string>
+    <string name="account_settings_ml">Account Settings</string>
+    <string name="logout_ml">Logout</string>
+    <string name="image_picking">image picking</string>
+    <string name="descr_add">Add Description</string>
+    <string name="post_blog">Post Blog</string>
+    <string name="btm_home">Home</string>
+    <string name="btm_notifications">Notifications</string>
+    <string name="btm_account">Account</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="notification_fragment">Notification Fragment</string>
+    <string name="account_fragment">Account Fragment</string>
+    <string name="blogpostdate">BlogPostDate</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore</string>
+    <string name="post_displayer_name_user">Username</string>
+    <string name="_0_likes">0 Likes</string>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "381775233434",
+    "firebase_url": "https://photoblog-b90a5.firebaseio.com",
+    "project_id": "photoblog-b90a5",
+    "storage_bucket": "photoblog-b90a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381775233434:android:c3a04dbf622bfca6",
+        "android_client_info": {
+          "package_name": "org.sanilchawla.photoblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381775233434-pmqr613703sl4i1vtip8mc5nbud0ckeu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.sanilchawla.photoblog",
+            "certificate_hash": "77eb85ccc897fb64107789ac16b53bd521918b83"
+          }
+        },
+        {
+          "client_id": "381775233434-s15r85fb8nundae9hpn932oil63hdtvv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsdxHbXNKrXk6190yKUSdFkJnpmiEh04Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381775233434-s15r85fb8nundae9hpn932oil63hdtvv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/btm_menu_home"
+        android:icon="@drawable/home_black_24dp"
+        android:title="@string/btm_home" />
+    <item
+        android:id="@+id/btm_menu_notif"
+        android:icon="@drawable/notifications_black_24dp"
+        android:title="@string/btm_notifications" />
+    <item
+        android:id="@+id/btm_menu_account"
+        android:icon="@drawable/person_black_24dp"
+        android:title="@string/btm_account" />
+</menu>
